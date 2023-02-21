@@ -21,7 +21,7 @@
   ## Installation
   N/A
   ## Usage
-  A series of prompts is displayed in the console which are then transferred to the README template.
+  A series of prompts is displayed in the console which are then transferred to the README template. Please find an instruction video at (https://drive.google.com/file/d/1nmrEqnyf9AiQt3AtGSIrwrllhPCwbD1b/view)
   ## License
   mit
   ## Contribution
