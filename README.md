@@ -14,7 +14,7 @@
   
   [Contribution](#contribution)
   
-  [Tests](#tests)
+  [Screenshot](#screenshot)
   
   [Questions](#questions)
   
@@ -26,8 +26,8 @@
   mit
   ## Contribution
   N/A
-  ## Tests
-  Tested with node.js
+  ## Screenshot
+  ![screenshot](assets/screenshot.jpg)
   ## Questions
   Repository adress: https://github.com/nulula
   
