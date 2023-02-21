@@ -1,10 +1,10 @@
 
-  # dfsd
+  # Everyday banking
 
-  ![](https://img.shields.io/badge/license-cc0%201.0-green)
+  ![](https://img.shields.io/badge/license-cc%20by%204.0-green)
   
   ## Description
-  sdfsdf
+  This is a small banking application to help with keeping track of the everyday expenses
   ## Table of contents
   [Installation](#installation)
   
@@ -19,16 +19,16 @@
   [Questions](#questions)
   
   ## Installation
-  sdfs
+  N/A
   ## Usage
-  sdfsdf
+  The user has access to several commands using a simple command line GUI, such as check balance, add an expense, etc.
   ## License
-  cc0 1.0
+  cc by 4.0
   ## Contribution
-  dfs
+  Please contact me by email if you wish to contribute to this project
   ## Tests
-  sdfsfd
+  With npm test package
   ## Questions
-  Repository adress: https://github.com/sdfs
+  Repository adress: https://github.com/example
   
-  Please direct questions to sdfsdf
+  Please direct questions to example@example.com
